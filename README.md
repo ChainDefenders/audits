@@ -1,6 +1,6 @@
-# EP Sec Smart Contract Security Audits
+# ChainDefenders Smart Contract Security Audits
 
-Reach out for a smart contract security audit to us [here](https://x.com/EPSecEth).
+Reach out for a smart contract security audit to us [here](https://x.com/ChDefendersEth).
 
 ## All team audits
 
